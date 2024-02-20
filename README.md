@@ -1,4 +1,5 @@
 # Fitness Tracker 
+## (Machine learning Time Series project)
 This project endeavors to leverage machine learning techniques to classify gym exercise types using data collected from devices equipped with accelerometers and gyroscopes. The overarching goal is to develop a robust classification model capable of accurately identifying various gym exercises based on patterns extracted from sensor data. By harnessing the rich information provided by accelerometers and gyroscopes, the project seeks to provide users with a reliable tool for automatically categorizing gym exercises, thereby streamlining workout tracking and analysis processes. Through the fusion of data science methodologies and sensor technology, the project aims to enhance the efficiency and effectiveness of gym workouts, ultimately promoting healthier lifestyles and fitness regimens.
 
 # 1.	Chapter 1: Processing raw data  
